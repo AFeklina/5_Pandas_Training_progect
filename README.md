@@ -1,35 +1,3 @@
-🎧 Music Preferences in Springfield and Shelbyville
-📌 Goal
-Test three hypotheses based on user behavior data from Yandex.Music:
-
-User activity differs depending on the day of the week and the city.
-
-On Monday mornings and Friday evenings, residents of Springfield and Shelbyville prefer different genres.
-
-In Springfield, users prefer pop, while in Shelbyville they listen to rap more.
-
-📁 Dataset
-music_project_en.csv: anonymized log of user activity (city, time, genre, etc.).
-
-🔍 Tools Used
-Python, pandas
-
-🧹 Project Steps
-Data overview – examined structure and potential issues.
-
-Preprocessing – handled missing values, duplicates, and formatting.
-
-Hypothesis testing – used filtering, grouping, and basic comparisons.
-
-✅ Key Findings
-Hypothesis 1: Confirmed. User activity varies by day and city.
-
-Hypothesis 2: Rejected. No clear genre differences at specific times.
-
-Hypothesis 3: Rejected. Pop is popular in both cities.
-
-Note: This is a basic project focused on practicing pandas and Python syntax. All charting and hypothesis structure were predefined.
-
 # 🎧 Music Preferences in Springfield and Shelbyville
 
 ## 📌 Goal
